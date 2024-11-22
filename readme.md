@@ -1,4 +1,4 @@
-# MiniBlink example
+# MarkeLink 
 
 ## Running example
 
